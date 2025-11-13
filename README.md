@@ -1,3 +1,4 @@
+
 # Exploratory-Data-Analysis---SQL
 
 ### Objective
@@ -23,11 +24,9 @@ DOES It MAKE SENSE TO AGRREGATE
 NO = DIMENSION  
 YES = MEASURE
 
-
 > [!NOTE]
 > **Age** derived from birthdate column is a Measure  
 > **ID** can be numeric but does not makes sense to aggreagte as are unique values so it is a dimension
-
 
 Examples: 
   - Category column from Product table `gold.dim_product` (it is already known this is a dimesnion table)
@@ -60,4 +59,9 @@ This uniques set of dimesnion date is explore to see the boundaries and time spa
 ## Measures Exploration 🔢
 This is for calcultating the key metrics of our businessm , the highest levels of aggregations of measures in the datset  
 e.g sum sales, average price, sum of quantity
+
+## Magnitude 📊
+
+
+## Ranking ↘️
     
