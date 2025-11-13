@@ -42,7 +42,7 @@ The Data exploration would be done in 6 steps namely:
 * Dimension Exporation 🔡
 * Date Exploration 📅
 * Measures Exploration 🔢
-* Magnitude 📊
+* Magnitude Analysis 📊
 * Ranking ↘️
 
 
@@ -60,7 +60,7 @@ This uniques set of dimesnion date is explore to see the boundaries and time spa
 This is for calcultating the key metrics of our businessm , the highest levels of aggregations of measures in the datset  
 e.g sum sales, average price, sum of quantity
 
-## Magnitude 📊
+## Magnitude Analysis 📊
 
 
 ## Ranking ↘️
