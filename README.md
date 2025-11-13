@@ -51,7 +51,13 @@ The Data exploration would be done in 6 steps namely:
 Here Exploration would be done on the databse using INFORMATION_SCHEMA to explore all tables and columns of specific tables in the gold layer of medallion warehouse structure
 
 ## Dimension Exporation 🔡
+Here, the main objective is to identify the Unique values or Cateogires in each dimension using DISTINCT.  
+This helps to recognize how data might be grouped or segmented which is useful for later anaysis e.g country, category
 
+## Date Exploration 📅
+This uniques set of dimesnion date is explore to see the boundaries and time span. i.e earliest, latest
 
-
+## Measures Exploration 🔢
+This is for calcultating the key metrics of our businessm , the highest levels of aggregations of measures in the datset  
+e.g sum sales, average price, sum of quantity
     
