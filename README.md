@@ -8,13 +8,12 @@ Here we would explore that data for analysis with different analytical technique
 CRM and ERP data used to create data in previous project :
   - https://github.com/megaeriv/Data-Engineering-Project-SQL-Data-Warehouse-from-Scratch
 
-
-Data Classificattion
+### Data Classificattion
 The best way to see data is Dimensions and measure, and this helps create the best analytical mindset when exploring data  
 - Measures to quantify the data  
 - Dimensions to group the data  
 
-To properly classify the data, this question heirachy is followed
+To properly classify the data, this question heirachy is followed:
 
 IS DATA TYPE A NUMBER  
 NO = Dimension (Qualitative)  
@@ -47,7 +46,12 @@ The Data exploration would be done in 6 steps namely:
 * Magnitude 📊
 * Ranking ↘️
 
+
 ## Database Exploration 🔍
+Here Exploration would be done on the databse using INFORMATION_SCHEMA to explore all tables and columns of specific tables in the gold layer of medallion warehouse structure
+
+## Dimension Exporation 🔡
+
 
 
     
