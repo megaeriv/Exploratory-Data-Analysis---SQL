@@ -61,7 +61,8 @@ This is for calcultating the key metrics of our businessm , the highest levels o
 e.g sum sales, average price, sum of quantity
 
 ## Magnitude Analysis 📊
-
+This is all about comparing measure values across different dimensions (e.g categories). It helps us understand the importance of different dimensions. 1.e aggragtion of measure by dimension  
+Example: Average price by product
 
 ## Ranking ↘️
     
