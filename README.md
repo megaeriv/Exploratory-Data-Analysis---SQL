@@ -16,13 +16,15 @@ The best way to see data is Dimensions and measure, and this helps create the be
 
 To properly classify the data, this question heirachy is followed:
 
-IS DATA TYPE A NUMBER  
+
+IS DATA TYPE A NUMBER?  
 NO = Dimension (Qualitative)  
 YES = Next question  
-  
-DOES It MAKE SENSE TO AGRREGATE  
+
+DOES It MAKE SENSE TO AGRREGATE?  
 NO = DIMENSION  
 YES = MEASURE
+
 
 > [!NOTE]
 > **Age** derived from birthdate column is a Measure  
@@ -65,5 +67,5 @@ This is all about comparing measure values across different dimensions (e.g cate
 Example: Average price by product
 
 ### 6. Ranking ↘️
-This is very basic, just ordering of dimensions by measure, ranking dimensions by measures. e,g bottom three(3) customers  
+This is very basic, just ordering of dimensions by measure, ranking dimensions by measures. e,g bottom three(3) customers    
 by orders
