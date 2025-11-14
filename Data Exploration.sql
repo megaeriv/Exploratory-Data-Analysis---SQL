@@ -166,7 +166,7 @@ FROM (
 		SUM(s.sales_amount) AS total_revenue,
 		RANK() OVER (ORDER BY SUM(sales_amount) DESC) AS ranking
 	FROM gold.fact_sales s
-	LEFT JOIN gold.dim_product p
+	LEFT JOIN gold.dim_products p
 		ON s.product_key = p.product_key
 	GROUP BY p.product_name
 ) AS ranked_products
@@ -177,7 +177,7 @@ SELECT TOP 5
 	p.product_name,
 	SUM(f.sales_amount) AS total_revenue
 FROM gold.fact_sales f
-LEFT JOIN gold.dim_product p
+LEFT JOIN gold.dim_products p
 	ON f.product_key = p.product_key
 GROUP BY p.product_name
 ORDER BY total_revenue;
