@@ -65,4 +65,5 @@ This is all about comparing measure values across different dimensions (e.g cate
 Example: Average price by product
 
 ### 6. Ranking ↘️
-    
+This is very basic, just ordering of dimensions by measure, ranking dimensions by measures. e,g bottom three(3) customers  
+by orders
