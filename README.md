@@ -17,13 +17,13 @@ The best way to see data is Dimensions and measure, and this helps create the be
 To properly classify the data, this question heirachy is followed:
 
 
-IS DATA TYPE A NUMBER?  
-NO = Dimension (Qualitative)  
-YES = Next question  
+*IS DATA TYPE A NUMBER ?*  
+*NO = `Dimension` (Qualitative)*  
+*YES = Next question*  
 
-DOES It MAKE SENSE TO AGRREGATE?  
-NO = DIMENSION  
-YES = MEASURE
+*DOES IT MAKE SENSE TO AGRREGATE ?*  
+*NO = `Dimension`*  
+*YES = `Measure`*
 
 
 > [!NOTE]
