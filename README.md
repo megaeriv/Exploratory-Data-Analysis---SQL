@@ -39,7 +39,7 @@ Examples:
 ---
 
 ## Exploration
-The Data exploration would be done in 6 steps namely:
+The Data exploration would be done in 6 categories namely:
 * Database Exploration 🔍
 * Dimension Exporation 🔡
 * Date Exploration 📅
